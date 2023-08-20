@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbec1eb8.css",
+    "main.js": "/static/js/main.57d42bd2.js",
+    "static/media/cat.jpg": "/static/media/cat.4bfe002bb79fc42562dd.jpg",
+    "static/media/car.jpg": "/static/media/car.08568030fa6bbad02b0a.jpg",
+    "static/media/sky.jpg": "/static/media/sky.0b17b77458659f9bd38f.jpg",
+    "static/media/computer.jpg": "/static/media/computer.12f92121489665aa1a5f.jpg",
+    "static/media/ticket.jpg": "/static/media/ticket.4b8eaddf34971ddbaa02.jpg",
+    "static/media/keyboard.jpg": "/static/media/keyboard.04e4da82751b497863a7.jpg",
+    "static/media/aiWarrior.jpg": "/static/media/aiWarrior.5573a464f6e63e4303b4.jpg",
+    "static/media/aiRobot.jpg": "/static/media/aiRobot.df6f369e45c2acea700e.jpg",
+    "static/media/cv.pdf": "/static/media/cv.b75a073ead58542a8fbc.pdf",
+    "static/media/analytics.jpg": "/static/media/analytics.de1a0a68c96b39544eb4.jpg",
+    "static/media/books.jpg": "/static/media/books.eb7a4ea936a45b24256c.jpg",
+    "index.html": "/index.html",
+    "main.fbec1eb8.css.map": "/static/css/main.fbec1eb8.css.map",
+    "main.57d42bd2.js.map": "/static/js/main.57d42bd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbec1eb8.css",
+    "static/js/main.57d42bd2.js"
+  ]
+}
